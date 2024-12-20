@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lukang Longshan Temple, Taiwan
+* source:	https://sketchfab.com/3d-models/lukang-longshan-temple-taiwan-07dba0dafbdf4f5db2ed60e5f84c758d
+* author:	Fovea (https://sketchfab.com/3dfovea)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lukang Longshan Temple, Taiwan" (https://sketchfab.com/3d-models/lukang-longshan-temple-taiwan-07dba0dafbdf4f5db2ed60e5f84c758d) by Fovea (https://sketchfab.com/3dfovea) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
